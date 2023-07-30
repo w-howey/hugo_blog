@@ -1,33 +1,35 @@
-name: Deploy
+name: deploy
+
 on:
-  push:
-    branches: main
-  pull_request:
-    branches: main
+    push:
+    workflow_dispatch:
+    schedule:
+        # Runs everyday at 8:00 AM
+        - cron: "0 0 * * *"
 
 jobs:
-  deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
-    permissions:
-      id-token: write # Needed for auth with Deno Deploy
-      contents: read # Needed to clone the repository
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  submodules: true
+                  fetch-depth: 0
 
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v3
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
 
-      - name: Install Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: lts/*
+            - name: Build Web
+              run: hugo
 
-      - name: Build step
-        run: npm install && npm run build # 📝 Update the build command(s)
-
-      - name: Upload to Deno Deploy
-        uses: denoland/deployctl@v1
-        with:
-          project: "epic-bobcat-32"
-          entrypoint: "index.js" # 📝 Update the entrypoint
-          root: "." # 📝 Update the root
+            - name: Deploy Web
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+                  EXTERNAL_REPOSITORY: pseudoyu/pseudoyu.github.io
+                  PUBLISH_BRANCH: master
+                  PUBLISH_DIR: ./public
+                  commit_message: ${{ github.event.head_commit.message }}
