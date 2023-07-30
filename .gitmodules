@@ -1,0 +1,3 @@
+[submodule "hugo_blog"]
+	path = hugo_blog
+	url = https://github.com/w-howey/hugo_blog.git
