@@ -11,7 +11,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      id-token: write # Allows authentication with Deno Deploy.
+      contents: read # Allows cloning the repo.
     steps:
       - name: Checkout
         uses: actions/checkout@v2
