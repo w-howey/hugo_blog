@@ -25,7 +25,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build Web
-        run: hugo
+        run: hugo --minify
 
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
@@ -37,9 +37,10 @@ jobs:
           PUBLISH_DIR: "./public"
           commit_message: ${{ github.event.head_commit.message }}
           allow_empty_commit: true
+
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: hugo-on-deno-deploy # the name of the project on Deno Deploy
+          project: howey # the name of the project on Deno Deploy
           entrypoint: https://deno.land/std@0.140.0/http/file_server.ts
           root: public # Where the built HTML/CSS/JS files are located.
