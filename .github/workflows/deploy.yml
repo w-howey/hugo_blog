@@ -31,7 +31,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           PERSONAL_TOKEN: ${{ secrets.HUGO_BLOG_PRIVATE }}
-          EXTERNAL_REPOSITORY: w-howey/w-howey.github.io
+          EXTERNAL_REPOSITORY: "w-howey/w-howey.github.io"
           PUBLISH_BRANCH: master
           cname: github.com
           PUBLISH_DIR: "./public"
