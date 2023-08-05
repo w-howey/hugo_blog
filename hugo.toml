@@ -57,39 +57,20 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/w-howey/"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+name = "Email"
+icon = "fa fa-2x fa-email-bulk"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "mailto:wyhao226@163.com"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+name = "QQ"
+icon = "fa fa-2x fa-qq"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "tencent://message/?uin=495338933&Site=400301.com&Menu=yes"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
@@ -100,7 +81,7 @@ title = "YanHowey Wang"
 author = "YanHowey Wang"
 info = "人生能有几多愁，恰似一江春水向东流！"
 description = "人生能有几多愁，恰似一江春水向东流！"
-keywords = "blog,desenvolvedor,pessoal"
+keywords = "blog,编程,前端,后端"
 
 [[languages.en.menu.main]]
 name = "Categories"
@@ -108,15 +89,14 @@ weight = 1
 url = "categories/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Tags"
 weight = 2
-url = "posts/"
-
+url = "tags/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Blog"
 weight = 3
-url = "projects/"
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact me"

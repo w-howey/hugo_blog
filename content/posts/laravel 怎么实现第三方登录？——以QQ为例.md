@@ -2,6 +2,9 @@
 title: "laravel 怎么实现第三方登录？——以QQ为例"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["php", "laravel", "社会化登录-qq"]
+series: ["编程系列"]
+categories: ["后端"]
 ---
 
 ## laravel 怎么实现第三方登录？——以 QQ 为例

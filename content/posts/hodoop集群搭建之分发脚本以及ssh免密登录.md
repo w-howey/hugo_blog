@@ -2,6 +2,9 @@
 title: "hodoop集群搭建之分发脚本以及ssh免密登录"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["hadoop", "ssh", "shell"]
+series: ["编程系列"]
+categories: ["大数据"]
 ---
 
 # hodoop 介绍

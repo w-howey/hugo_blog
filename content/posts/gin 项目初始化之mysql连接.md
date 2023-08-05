@@ -2,6 +2,9 @@
 title: "gin 项目初始化之mysql连接"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["golang", "gin"]
+series: ["编程系列"]
+categories: ["后端"]
 ---
 
 # gin 项目初始化之 mysql 连接

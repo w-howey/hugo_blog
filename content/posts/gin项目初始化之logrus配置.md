@@ -2,6 +2,9 @@
 title: "gin项目初始化之logrus配置"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["golang", "gin", "logrus"]
+series: ["编程系列"]
+categories: ["后端"]
 ---
 
 # gin 项目初始化之 logrus 配置

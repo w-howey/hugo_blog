@@ -2,6 +2,9 @@
 title: "HDFS读写数据流程"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["hadoop", "HDFS"]
+series: ["编程系列"]
+categories: ["大数据"]
 ---
 
 # HDFS 读写数据流程

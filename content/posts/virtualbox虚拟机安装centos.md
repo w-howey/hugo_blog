@@ -2,6 +2,9 @@
 title: "虚拟机安装centos"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["centos", "虚拟机"]
+series: ["编程系列"]
+categories: ["运维"]
 ---
 
 # 虚拟机安装 centos

@@ -2,6 +2,9 @@
 title: "HDFS常用API操作"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+tags: ["hadoop", "HDFS"]
+series: ["编程系列"]
+categories: ["大数据"]
 ---
 
 ## 1.下载 winutils.exe
