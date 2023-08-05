@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://howey.deno.dev"
 title = "howey-blog"
 theme = "hugo-coder"
 languageCode = "en"
