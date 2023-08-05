@@ -1,7 +1,7 @@
 ---
 title: "gin 项目初始化之配置文件"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 ## 配置文件

@@ -1,7 +1,7 @@
 ﻿---
 title: "laravel+tp项目如何上线以及ssl证书的配置"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 ### 写完的项目如何部署上线呢？

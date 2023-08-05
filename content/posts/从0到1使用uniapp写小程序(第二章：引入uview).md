@@ -1,7 +1,7 @@
 ﻿---
 title: "从0到1使用uniapp写小程序(第二章：引入uview)"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 ## 安装 scss

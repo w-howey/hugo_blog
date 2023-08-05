@@ -1,7 +1,7 @@
 ﻿---
 title: "HDFS介绍以及shell操作"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 # HDFS

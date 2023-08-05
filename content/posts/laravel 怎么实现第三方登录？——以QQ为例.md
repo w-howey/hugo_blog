@@ -1,7 +1,7 @@
 ---
 title: "laravel 怎么实现第三方登录？——以QQ为例"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 ## laravel 怎么实现第三方登录？——以 QQ 为例

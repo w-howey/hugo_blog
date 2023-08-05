@@ -1,7 +1,7 @@
 ﻿---
 title: "hodoop集群搭建之分发脚本以及ssh免密登录"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 # hodoop 介绍

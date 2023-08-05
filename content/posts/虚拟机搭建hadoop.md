@@ -1,7 +1,7 @@
 ﻿---
 title: "虚拟机搭建 hadoop"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 # 虚拟机搭建 hadoop

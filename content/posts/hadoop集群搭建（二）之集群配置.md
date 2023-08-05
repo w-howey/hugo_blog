@@ -1,7 +1,7 @@
 ﻿---
 title: "hadoop集群搭建（二）之集群配置"
 date: 2023-07-26T22:21:16+08:00
-draft: true
+draft: false
 ---
 
 # hadoop 集群搭建（二）之集群配置
