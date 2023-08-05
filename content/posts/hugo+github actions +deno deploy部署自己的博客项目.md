@@ -2,6 +2,7 @@
 title: "hugo + github actions + deno deploy部署自己的博客项目"
 date: 2023-08-05T12:20:16+08:00
 draft: false
+slug: "2307262210"
 authors: ["howey"]
 series: ["编程系列"]
 categories: ["前端"]

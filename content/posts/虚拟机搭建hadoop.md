@@ -2,6 +2,7 @@
 title: "虚拟机搭建 hadoop"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+slug: "2307262201"
 tags: ["hadoop", "虚拟机"]
 series: ["编程系列"]
 categories: ["大数据"]

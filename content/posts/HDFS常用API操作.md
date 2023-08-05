@@ -2,6 +2,7 @@
 title: "HDFS常用API操作"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+slug: "2307262206"
 tags: ["hadoop", "HDFS"]
 series: ["编程系列"]
 categories: ["大数据"]

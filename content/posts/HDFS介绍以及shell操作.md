@@ -2,6 +2,7 @@
 title: "HDFS介绍以及shell操作"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+slug: "2307262208"
 tags: ["hadoop", "HDFS", "shell"]
 series: ["编程系列"]
 categories: ["大数据"]

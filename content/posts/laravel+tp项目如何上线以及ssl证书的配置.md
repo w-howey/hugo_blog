@@ -2,6 +2,7 @@
 title: "laravel+tp项目如何上线以及ssl证书的配置"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+slug: "2307262212"
 tags: ["php", "laravel", "thinkphp", "nginx"]
 series: ["编程系列"]
 categories: ["后端"]

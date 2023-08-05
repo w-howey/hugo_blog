@@ -2,6 +2,7 @@
 title: "hadoop集群搭建（二）之集群配置"
 date: 2023-07-26T22:21:16+08:00
 draft: false
+slug: "2307262205"
 tags: ["hadoop", "shell"]
 series: ["编程系列"]
 categories: ["大数据"]
