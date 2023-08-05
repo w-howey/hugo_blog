@@ -28,7 +28,7 @@ jobs:
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
         with:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.HUGO_BLOG_PRIVATE }}
           EXTERNAL_REPOSITORY: w-howey/w-howey.github.io
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ../../../public
