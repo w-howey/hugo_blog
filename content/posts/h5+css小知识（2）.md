@@ -31,7 +31,7 @@ p { 　　border: 1px solid red;
 
 ### 2-1. 属性选择器
 
-```
+```css
 //所需 CSS2 版本
 [href] { color: orange;
 }
@@ -62,7 +62,7 @@ p { 　　border: 1px solid red;
 
 ### 2-2. 复合选择器
 
-```
+```css
 //相邻兄弟选择器
 p + b { color: red;
 }
@@ -74,7 +74,7 @@ p ~ b { color: red;
 
 ### 2-3. 伪元素选择器
 
-```
+```css
 //::first-line**块级首行**
 ::first-line { color: red;
 }

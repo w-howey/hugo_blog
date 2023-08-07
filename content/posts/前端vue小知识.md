@@ -41,7 +41,7 @@ v-bind:href="url" 简写成 :href="url"
 
 el 示例：
 
-```
+```vue
 //第一种写法
 new Vue({
   el :"#root"
@@ -57,7 +57,11 @@ data 有对象式和函数式两种写法，
 data 不要使用箭头函数，this 指向外面的 window
 
 ```vue
-//不适用 data:()=>{ } //以下等价 data:function(){ } data(){ }
+//不适用 
+data:()=>{ } 
+//以下等价 
+data:function(){ } 
+data(){ }
 ```
 
 # mvvm 模型
@@ -70,7 +74,7 @@ vm：视图模型：vue 实例
 
 # 数据代理
 
-```
+```js
 let person ={
   name:"张三",
   sex:"男",
@@ -106,7 +110,7 @@ console.log(person)
 
 `注意`
 
-```
+```js
 let number=18
 let person ={
   name:"张三",
