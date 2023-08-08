@@ -1,0 +1,6 @@
+.pagination li {
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+    width: 30px;
+}
