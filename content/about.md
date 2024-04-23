@@ -1,6 +1,6 @@
 ---
 title: "出师表"
-description: "Hugo, the world's fastest framework for building websites"
+description: "Dispatching the Troops Memorial"
 date: "2019-02-28"
 aliases: ["about-us", "about-hugo", "contact"]
 author: "诸葛亮"
