@@ -4,6 +4,7 @@ date: 2023-07-26T22:21:16+08:00
 draft: false
 slug: "2307262205"
 tags: ["hadoop", "shell"]
+authors: ["howey"]
 series: ["编程系列"]
 categories: ["大数据"]
 ---

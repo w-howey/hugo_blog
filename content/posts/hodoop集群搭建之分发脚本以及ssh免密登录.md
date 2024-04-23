@@ -5,6 +5,7 @@ draft: false
 slug: "2307262209"
 tags: ["hadoop", "ssh", "shell"]
 series: ["编程系列"]
+authors: ["howey"]
 categories: ["大数据"]
 ---
 

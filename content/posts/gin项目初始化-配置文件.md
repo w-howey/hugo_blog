@@ -4,6 +4,7 @@ date: 2023-07-26T22:21:16+08:00
 draft: false
 slug: "2307262203"
 tags: ["golang", "gin"]
+authors: ["howey"]
 series: ["编程系列"]
 categories: ["后端"]
 ---

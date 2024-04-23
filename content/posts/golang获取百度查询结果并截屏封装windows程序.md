@@ -4,7 +4,7 @@ date = 2023-09-02T15:59:02+08:00
 title = "golang获取百度查询结果并截屏封装windows程序"
 description = "golang获取百度查询结果并截屏封装windows程序"
 slug = "2309091559"
-authors = []
+authors: ["howey"]
 tags = ["golang"]
 categories = ["后端"]
 externalLink = ""

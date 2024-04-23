@@ -4,7 +4,7 @@ date = 2023-08-06T19:43:02+08:00
 title = "前端vue小知识"
 description = "前端vue小知识"
 slug = "2308061943"
-authors = []
+authors: ["howey"]
 tags = ["vue"]
 categories = ["前端"]
 externalLink = ""

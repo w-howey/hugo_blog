@@ -5,6 +5,7 @@ draft: false
 slug: "2307262204"
 tags: ["golang", "gin", "logrus"]
 series: ["编程系列"]
+authors: ["howey"]
 categories: ["后端"]
 ---
 
