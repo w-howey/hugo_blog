@@ -101,7 +101,7 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "WebSite"
 weight = 4
-url = "webSite/"
+url = "website/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
