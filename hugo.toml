@@ -99,13 +99,18 @@ weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "WebSite"
 weight = 4
+url = "webSite/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
 url = "contact/"
 
 [[languages.en.menu.main]]
 name = "About"
-weight = 5
+weight = 6
 url = "about/"
 
 
