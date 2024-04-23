@@ -1,6 +1,6 @@
 ﻿+++
 title = "webSite"
-slug = "webSite"
+slug = "website"
 +++
 
 webSite
