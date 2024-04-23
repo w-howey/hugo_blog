@@ -1,14 +1,14 @@
 ---
-title = "windows如何取消桌面图标右下角带快捷方式？"
-date = 2023-08-05T21:42:55+08:00
-draft = false
-description = "windows如何取消桌面图标右下角带快捷方式？"
-slug = "2308052141"
-authors = ["howey"]
-tags = ["工具"]
-categories = ["后端"]
-externalLink = ""
-series =["编程系列"]
+title : "windows如何取消桌面图标右下角带快捷方式？"
+date : 2023-08-05T21:42:55+08:00
+draft : false
+description: "windows如何取消桌面图标右下角带快捷方式？"
+slug : "2308052141"
+authors : ["howey"]
+tags: ["工具"]
+categories: ["后端"]
+externalLink: ""
+series: ["编程系列"]
 ---
 
 # windows 如何取消桌面图标右下角带快捷方式？
