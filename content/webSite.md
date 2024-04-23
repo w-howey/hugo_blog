@@ -22,8 +22,8 @@ slug = "webSite"
     <main class="max-w-md mx-auto">
       <ul class="space-y-4">
         <li>
-          <a href="item.link" class="flex items-center space-x-2 hover:text-white transition-colors duration-200">
-            <span class="text-xl font-medium"></span>
+          <a href="https://www.qileso.com/" class="flex items-center space-x-2 hover:text-white transition-colors duration-200">
+            <span class="text-xl font-medium">奇乐搜</span>
           </a>
         </li>
       </ul>
