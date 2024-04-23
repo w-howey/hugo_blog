@@ -1,8 +1,8 @@
 baseURL = "https://howey.deno.dev"
 title = "howey-blog"
 theme = "hugo-coder"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"
+languageCode = "en"
+defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
