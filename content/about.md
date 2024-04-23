@@ -6,6 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
+
 <p>&emsp;&emsp;先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。然侍卫之臣不懈于内，忠志之士忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气，不宜妄自菲薄，引喻失义，以塞忠谏之路也。</p>
 
 &emsp;&emsp;宫中府中，俱为一体，陟罚臧否，不宜异同。若有作奸犯科及为忠善者，宜付有司论其刑赏，以昭陛下平明之理，不宜偏私，使内外异法也。
@@ -29,38 +30,11 @@ author = "Hugo Authors"
    body {
             font-family: "宋体", "SimSun", "Arial", sans-serif;
             line-height: 1.6;
-            margin: 0;
-            padding: 2rem;
         }
-
-        /* 标题样式 */
-        h1 {
-            text-align: center;
-            font-size: 2.5rem;
-            margin-bottom: 1.5rem;
-            color: #444;
-        }
-
         /* 段落样式 */
         p {
             font-size: 1.2rem;
             margin-bottom: 1rem;
         }
 
-        /* 引用样式 */
-        blockquote {
-            font-style: italic;
-            border-left: ¼rem solid #ccc;
-            padding-left: 1rem;
-            margin-left: 0;
-            margin-bottom: 1rem;
-        }
-
-        /* 分割线样式 */
-        hr {
-            height: 1px;
-            background-color: #ccc;
-            border: none;
-            margin: 2rem 0;
-        }
 </style>   
