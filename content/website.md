@@ -42,21 +42,3 @@ slug: "website"
 |![网盘资源分享站点](http://www.vpansou.com/favicon.ico) |[网盘资源分享站点](http://www.vpansou.com/)| 网盘资源分享站点     |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<style>
-    img{
-        width: 50px;
-        height: 50px;
-    }
-</style>
