@@ -44,5 +44,13 @@ slug: "website"
 |![免费小说阅读](https://www.shushudu.com/favicon.ico) |[免费小说阅读](https://www.shushudu.com/)| 免费小说阅读    |
 |![全球电视频道](https://www.cxtvlive.com/favicon.ico) |[全球电视频道](https://www.cxtvlive.com/)| 全球电视频道    |
 |![网盘资源搜索](https://www.aiyoweia.com/favicon.ico) |[网盘资源搜索](https://www.aiyoweia.com/)| 网盘资源搜索    |
+|![小说阅读网站](https://m.feibzw.com/favicon.ico) |[小说阅读网站](https://m.feibzw.com/)| 小说阅读网站    |
+|![易唱谱（吉他学习） ](http://www.echangwang.com/favicon.ico) |[易唱谱（吉他学习）](http://www.echangwang.com/)| 易唱谱（吉他学习） |
+|![抛硬币](https://riggedcoinflip.com/favicon.ico) |[抛硬币](https://riggedcoinflip.com/)| 抛硬币 |
+|![搜番引擎](https://air.tls.moe/favicon.ico) |[搜番引擎](https://air.tls.moe/#/home)| 搜番引擎 |
+|![国外电子书免费下](https://standardebooks.org/favicon.ico) |[国外电子书](https://standardebooks.org/ebooks)| 国外电子书免费下 |
+|![免费搜书、下载](https://ss.yesky.online/favicon.ico) |[免费搜书、下载](https://ss.yesky.online/)| 免费搜书、下载 |
+|![zlibrary接口网站](https://tool.ssdown.org/favicon.ico) |[zlibrary接口网站](https://tool.ssdown.org/)| zlibrary接口网站 |
+|![pdf转换](https://www.ilovepdf.com/favicon.ico) |[pdf转换](https://www.ilovepdf.com/)| pdf转换 |
 
 
