@@ -5,6 +5,7 @@ draft: false
 slug: "2307262211"
 tags: ["php", "laravel", "社会化登录-qq"]
 series: ["编程系列"]
+authors: ["howey"]
 categories: ["后端"]
 ---
 

@@ -5,6 +5,7 @@ draft: false
 slug: "2107262213"
 tags: ["centos", "虚拟机"]
 series: ["编程系列"]
+authors: ["howey"]
 categories: ["运维"]
 ---
 

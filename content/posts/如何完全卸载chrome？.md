@@ -1,15 +1,15 @@
-+++ 
-draft = false
-date = 2023-08-05T21:19:01+08:00
-title = "如何完全卸载chrome？"
-description = "如何完全卸载chrome？"
-slug = "23080521"
-authors = ["howey"]
-tags = ["工具"]
-categories = ["后端"]
-externalLink = ""
-series =["编程系列"]
-+++
+---
+draft: false
+date: 2023-08-05T21:19:01+08:00
+title: "如何完全卸载chrome？"
+description: "如何完全卸载chrome？"
+slug: "23080521"
+authors: ["howey"]
+tags:  ["工具"]
+categories: ["后端"]
+externalLink: ""
+series: ["编程系列"]
+---
 
 # 如何完全卸载 chrome？
 

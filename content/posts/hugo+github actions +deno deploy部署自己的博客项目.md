@@ -51,6 +51,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
+          extended: true
       #实际编译命令
       - name: Build Web
         run: hugo --minify

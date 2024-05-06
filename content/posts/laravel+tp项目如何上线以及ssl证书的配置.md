@@ -5,6 +5,7 @@ draft: false
 slug: "2307262212"
 tags: ["php", "laravel", "thinkphp", "nginx"]
 series: ["编程系列"]
+authors: ["howey"]
 categories: ["后端"]
 ---
 
