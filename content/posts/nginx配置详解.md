@@ -15,7 +15,8 @@ series: ["编程系列"]
 ### Nginx的配置文件通常分为几个部分：main（全局设置）、events（事件设置）、http（http相关设置）以及server（服务器特定设置）。每个部分都包含了影响Nginx行为的指令。
 
 ### nginx.conf
-```nginx
+
+```
 
 #定义了Nginx进程运行的用户和组，这里使用的是nginx用户和组
 user  nginx nginx;
@@ -115,7 +116,8 @@ http {
 ```
 
 ### server部分详解
-```nginx
+
+```
 server {
     listen       80;  #监听的端口
     server_name admin.****.com; # 访问的域名
